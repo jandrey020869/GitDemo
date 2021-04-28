@@ -13,9 +13,10 @@ namespace HelloWorld
         {
             /*
             //variables
-            string itemName = "Widget";
-            double pricePerOnce = 17.36; 
+            string itemName = "Widget23";
+            double pricePerOnce = 100.23; 
             string outputString;
+            double pricePerOnce = 200.23;
 
             //format output
             //outputString = String.Format("The current price is {0:C}" , pricePerOnce);
