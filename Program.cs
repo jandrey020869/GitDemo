@@ -24,6 +24,11 @@ namespace HelloWorld
             string outputString;
             double pricePerOnce = 500.23;
 
+            string itemName = "Widget25";
+            double pricePerOnce = 500.23; 
+            string outputString;
+            double pricePerOnce = 600.23;
+
             //format output
             //outputString = String.Format("The current price is {0:C}" , pricePerOnce);
             outputString = String.Format("{0,10} {1,10}", itemName, pricePerOnce);
